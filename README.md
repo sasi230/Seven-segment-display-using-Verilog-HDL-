@@ -100,7 +100,8 @@ module testbench;
 endmodule
 ```
 OUTPUT:
-![BCDTESTBENCH](https://github.com/user-attachments/assets/ce4dfd70-eb80-4d24-b2b7-fe026c25e5ca)
+![Screenshot 2024-09-26 164606](https://github.com/user-attachments/assets/f883f0b3-d686-4946-8c96-9bb4ec6e3336)
+
 
 
 
