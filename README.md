@@ -100,7 +100,8 @@ module testbench;
 endmodule
 ```
 OUTPUT:
-![Screenshot 2024-09-26 164606](https://github.com/user-attachments/assets/f883f0b3-d686-4946-8c96-9bb4ec6e3336)
+![WhatsApp Image 2024-09-26 at 4 48 03 PM](https://github.com/user-attachments/assets/be9e25fd-f920-4d18-b494-114ddf7cafd8)
+
 
 
 
