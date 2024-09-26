@@ -36,7 +36,7 @@ Diagram
 Verilog Code for Seven-Segment Display
 
 // seven_segment_display.v
-```module bcd_behaviuoral(bcd,seg);
+``module bcd_behaviuoral(bcd,seg);
 input [3:0]bcd;
 output reg[6:0]seg;
 always @ (bcd)
